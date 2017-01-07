@@ -1,0 +1,28 @@
+name: SurvivalEssentials
+version: 1.0
+main: me.davidcooll13.survivalessentials.SurvivalEssentials
+description: Essentials for survival - Budder
+ 
+commands:
+    tp:
+        usage: /<command>
+        aliases: [teleport]
+        description: Teleport to other players.
+    tpa:
+        usage: /<command>
+        description: Request to teleport.
+    tpaccept:
+        usage: /<command>
+        aliases: [tpyes]
+        description: Accept a teleport request.
+    tpdeny:
+        usage: /<command>
+        aliases: [tpno]
+        description: Deny a teleport request.
+    setspawn:
+        usage: /<command>
+        aliases: [sspawn]
+        description: Set the spawn.
+    spawn:
+        usage: /<command>
+        description: Go to the spawn.
