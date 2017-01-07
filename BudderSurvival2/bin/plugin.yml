@@ -1,0 +1,23 @@
+name: BudderSurvival
+author: Daggle
+main: me.davidcooll13.buddersurvival2.Main
+version: 1.0
+
+commands:
+  tpa:
+      description: Request teleportation to a player.
+  tpaccept:
+      description: Accept a teleportation request
+  tpdeny:
+      description: Deny a teleportation request
+  home:
+      description: Teleport home
+  sethome:
+      description: Set your home
+  delhome:
+      description: Delete your home
+  spawn:
+      description: Teleport to spawn
+  setspawn:
+      description: Set your spawn
+      
